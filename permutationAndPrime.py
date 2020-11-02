@@ -1,4 +1,8 @@
 
+'''
+Calculate all possible permutations and for integers, determine the primes from the calculated permutations.
+'''
+
 count = 0
 arr = []
 
